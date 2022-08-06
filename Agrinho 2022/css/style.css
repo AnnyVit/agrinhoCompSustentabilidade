@@ -1,0 +1,135 @@
+body{
+    color: green;
+    font-family: 'Roboto';
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    padding-bottom: 100px;
+}
+
+
+.title{
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: grey;
+    font-size: 50px;
+    
+    font-family: 'roboto';
+    color: green;
+
+}
+
+.sustentabilidade{
+    border: 2px solid grey;
+    padding: 20px;
+}
+
+.sachs{
+    border: 2px solid grey;
+    padding: 20px;
+}
+
+.exemplo.p1{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+.nav-item {
+    margin: 0 20px;
+}
+
+#carouselExampleCaptions{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-bottom: 16px;
+}
+
+.bg-barra {
+  background: linear-gradient(0deg, #008cff 0%, rgb(0, 181, 255) 100%);
+  box-shadow: 0px 0px 5px rgba(51, 51, 51, 0.4);
+}
+
+.container {
+  background: repeating-linear-gradient( 180deg, rgba(122, 129, 255, 0.376), rgba(151, 157, 255, 0.376) 1px, #fcfcff 1px, #fcfcff 25px );
+  box-shadow: 1px 1px 4px #21bcff96;
+  border-radius: 3px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.bg-barra .nav-link {
+  color: #003a6a;
+  font-weight: bold;
+  font-display: Roboto;
+  text-transform: uppercase;
+}
+
+.card{
+    margin-bottom: 30px;
+}
+
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.icons{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.icons .fa-facebook{
+    font-size: 35px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.texto-corpo {
+  color: #333;
+}
+
+footer{
+    height: 100px;
+    background-color: rgb(0, 140, 255);
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
